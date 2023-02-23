@@ -19,15 +19,15 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           yEAh-Games
+    yeah-games:
+      name:           yEAh Games
       site:           https://www.yeahgames.net
       avatar:         /assets/images/logo.png
       bio:            "Official yEAh Games News publications." #yEAH GAMES MUST ALWAYS BE A CREDITED AUTHOR ON ALL POSTS! THE AUTHOR CAN ADD THEIR CREDIT AS WELL IN CERTAIN CASES, BUT YEAHGAMES MUST ALWAYS BE THERE
       email:          admin@yeahgames.net
       twitter:        https://twitter.com/yeahgames_
 
-    jane:
+    tallinn:
       name:           Tallinn
       site:           https://t.unigon.net
       avatar:         /assets/images/avatar2.jpg
