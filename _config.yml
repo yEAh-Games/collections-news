@@ -19,14 +19,6 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    tallinn:
-      name:           Tallinn
-      site:           https://t.unigon.net
-      avatar:         //news.yeahgames.net/assets/images/avatar2.jpg
-      bio:            "Lead developer, writer and administrator for yEAh Games."
-      email:          tallinn@yeahgames.net
-      twitter:        https://github.com/nnillat
-
     yeahgames:
       name:           yEAh Games
       site:           https://www.yeahgames.net
@@ -35,21 +27,13 @@ authors:
       email:          admin@yeahgames.net
       twitter:        https://github.com/yeah-games
 
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
-      avatar:         //news.yeahgames.net/assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         //news.yeahgames.net/assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+    tallinn:
+      name:           Tallinn
+      site:           https://t.unigon.net
+      avatar:         //news.yeahgames.net/assets/images/authors/tallinn.png
+      bio:            "Lead developer, writer and administrator for yEAh Games."
+      email:          tallinn@yeahgames.net
+      twitter:        https://github.com/nnillat      
  
 # Defaults
 defaults:
