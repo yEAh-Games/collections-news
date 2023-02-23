@@ -22,7 +22,7 @@ authors:
     tallinn:
       name:           Tallinn
       site:           https://t.unigon.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         //news.yeahgames.net/assets/images/avatar2.jpg
       bio:            "Lead developer, writer and administrator for yEAh Games."
       email:          tallinn@yeahgames.net
       twitter:        https://github.com/nnillat
@@ -30,7 +30,7 @@ authors:
     yeahgames:
       name:           yEAh Games
       site:           https://www.yeahgames.net
-      avatar:         /assets/images/logo.png/
+      avatar:         //news.yeahgames.net/assets/images/logo.png/
       bio:            "Official yEAh Games News publications." #yEAH GAMES MUST ALWAYS BE A CREDITED AUTHOR ON ALL POSTS! THE AUTHOR CAN ADD THEIR CREDIT AS WELL IN CERTAIN CASES, BUT YEAHGAMES MUST ALWAYS BE THERE
       email:          admin@yeahgames.net
       twitter:        https://github.com/yeah-games
@@ -38,7 +38,7 @@ authors:
     sal:
       name:           Sal
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         //news.yeahgames.net/assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
@@ -46,7 +46,7 @@ authors:
     jane:
       name:           Jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         //news.yeahgames.net/assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
