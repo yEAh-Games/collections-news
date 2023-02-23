@@ -2,10 +2,11 @@
 layout: post
 title: Election candidates in the October 2022 YG elections
 date: 2022-10-20 18:00
-author: yeahgamesdevs
+author: yEAh-Games
 comments: true
 categories: [Events, yEAh Elections, October 2022 Elections]
 tags: [candidates, elections, vote, voting yeah games elections, yeah games elections 2022]
+image: https://yeaharchives.files.wordpress.com/2022/10/istockphoto-688970380-612x612-1.jpg
 ---
 <!-- wp:paragraph -->
 <p>The following are the registered candidates and related information for the October 2022 yEAh Games elections. <br>You can vote for them in the election by choosing their party name on the ballot, posted <a href="https://yeaharchives.wordpress.com/2022/10/26/vote-may-2022/">here</a>.</p>
