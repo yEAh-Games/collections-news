@@ -2,9 +2,11 @@
 layout: post
 title: Election candidates in the May 2022 YG elections
 date: 2022-05-30 18:57
-author: yeahgamesdevs
+author: yEAh-Games
 comments: true
-categories: [candidates, elections, Events, May 2022 Elections, vote, voting, yEAh Elections, yeah games elections, yeah games elections 2022]
+tags: [candidates, vote, voting, yeah games elections, yeah games elections 2022]
+categories: [Elections, Events, May 2022 Elections, yEAh Elections]
+image: https://yeaharchives.files.wordpress.com/2022/05/screenshot-2022-05-30-18.54.18.png
 ---
 <!-- wp:paragraph -->
 <p>The following are the registered candidates and related information for the May 2022 yEAh Games elections. <br>You can vote for them in the election by choosing their party name on the ballot, posted on the home page of this website.</p>

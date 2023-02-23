@@ -1,10 +1,12 @@
 ---
 layout: post
-title: POLL / "yEAh Games meetups"
+title: POLL: yEAh Games meetups
 date: 2022-06-30 11:06
-author: yeahgamesdevs
+author: yEAh-Games
 comments: true
-categories: [announcement, Events, meetups, News/announcements, official, Polls, Upcoming events, yeah-games]
+categories: [Announcement, News/announcements, Official, Polls]
+tags: [meetups, upcoming events, events, yeah-games]
+image: https://yeaharchives.files.wordpress.com/2022/07/untitled-presentation.png
 ---
 <!-- wp:paragraph -->
 <p><strong>Note:</strong><br><em>This was an announcement that was originally posted on our official <a href="https://yeaharchives.wordpress.com/discord-about/">yEAh Games Discord server</a> in the <a href="https://discord.com/channels/887052880782176266/893859324466704424">#polls</a> channel.</em> <em>It has been since semi-automatically copied to a post on this website, so certain information may not make sense in this context.</em> <em>The website post's date may also not reflect the actual announcement's post date.</em><br><em>This announcement was a poll; in order to participate and vote, you must go to the <a href="https://discord.com/channels/887052880782176266/893859324466704424">#polls</a> channel and interact with the message.</em><br><em><strong>As always, check the server for the most-up-to-date information.</strong></em></p>

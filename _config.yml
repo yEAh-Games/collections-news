@@ -20,10 +20,10 @@ plugins:
   
 authors:
     sal:
-      name:           yEAh Games
+      name:           yEAh-Games
       site:           https://www.yeahgames.net
       avatar:         /assets/images/logo.png
-      bio:            "Official yEAh Games News publications."
+      bio:            "Official yEAh Games News publications." #yEAH GAMES MUST ALWAYS BE A CREDITED AUTHOR ON ALL POSTS! THE AUTHOR CAN ADD THEIR CREDIT AS WELL IN CERTAIN CASES, BUT YEAHGAMES MUST ALWAYS BE THERE
       email:          admin@yeahgames.net
       twitter:        https://twitter.com/yeahgames_
 
