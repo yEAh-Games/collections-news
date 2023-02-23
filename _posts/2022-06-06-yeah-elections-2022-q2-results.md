@@ -2,7 +2,7 @@
 layout: post
 title: yEAh Elections • May 2022 — Results
 date: 2022-06-06 09:52
-author: yEAh-Games, Aidan
+author: yeahgames, Aidan
 comments: true
 categories: [Events, May 2022 Elections, yEAh Elections]
 image: https://yeaharchives.files.wordpress.com/2022/06/electionresults-thumb.png

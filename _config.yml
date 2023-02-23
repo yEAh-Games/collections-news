@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    yeah-games:
+    yeahgames:
       name:           yEAh Games
       site:           https://www.yeahgames.net
       avatar:         /assets/images/logo.png
