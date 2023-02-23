@@ -1,8 +1,8 @@
 # Site
 name: 'News / yEAh Network'
 description: 'All news relating to yEAh Games is published directly to this library collection.'
-logo: '/assets/images/logo.png'
-favicon: '/assets/images/favicon.ico'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'admin@yeahgames.net'
