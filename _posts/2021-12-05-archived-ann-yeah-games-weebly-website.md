@@ -2,7 +2,7 @@
 layout: post
 title: Introducing the yEAh Games Weebly website!
 date: 2021-12-05 12:40
-author: yEAh-Games
+author: yeahgames
 comments: true
 tags: [Website, old]
 categories: [Announcement, News/announcements, Official]

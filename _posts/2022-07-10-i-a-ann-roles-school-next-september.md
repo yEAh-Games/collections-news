@@ -2,7 +2,7 @@
 layout: post
 title:  ROLES -- School next September
 date: 2022-07-10 21:09
-author: yeahgamesdevs
+author: yeahgames
 comments: true
 categories: [Announcement, Interactive announcements, News/announcements, Official]
 tags: [ia, official, discord]

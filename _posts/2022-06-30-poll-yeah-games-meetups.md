@@ -2,7 +2,7 @@
 layout: post
 title: POLL -- yEAh Games meetups
 date: 2022-06-30 11:06
-author: yEAh-Games
+author: yeahgames
 comments: true
 categories: [Announcement, News/announcements, Official, Polls]
 tags: [meetups, upcoming events, events, yeah-games]
