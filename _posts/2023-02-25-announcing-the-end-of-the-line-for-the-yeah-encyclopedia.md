@@ -29,6 +29,6 @@ The decision to retire the online encyclopedia was not an easy one. It was a pro
 
 The decision to retire yEAh Games' online encyclopedia was made with careful consideration and analysis. It no longer fits in with the company's values or its current business model, and it is not being used as much as it once was. The encyclopedia served a valuable purpose in the past, but it is time to retire it and focus on the future. yEAh Games remains committed to creating innovative and engaging games that provide the best possible experience for its users.
 
-Thank you, 
-The yEAdministrative team
+Thank you, <br>
+The yEAdministrative team <br>
 *25/02/2023*
