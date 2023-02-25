@@ -3,7 +3,7 @@ layout: post
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
 author: yeahgames, tallinn
 categories: [News/announcements, Official, Products]
-image: https://images.unsplash.com/photo-1524402822060-94f4fb30f6ff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+image: /archive/img/encyclopedias.jpg
 tags: [sticky]
 ---
 
