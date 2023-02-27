@@ -34,6 +34,14 @@ authors:
       bio:            "Lead developer, writer and administrator for yEAh Games."
       email:          tallinn@yeahgames.net
       twitter:        https://github.com/nnillat      
+
+    aidan:
+      name:           Aidan
+      site:           https://members.yeahgames.net/@undone
+      avatar:         https://i.ibb.co/v3pwbfx/UNDONE.png
+      bio:            "Secondary developer, writer, administrator for yEAh Games."
+      email:          aidan@yeahgames.net
+      twitter:        https://github.com/undonesundew   
  
 # Defaults
 defaults:
