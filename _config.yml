@@ -20,7 +20,8 @@ plugins:
   
 authors:
     yeahgames:
-      name:           yEAh Games (@yeahgames)
+      name:           yEAh Games
+      username:       yeahgames
       site:           https://www.yeahgames.net
       avatar:         //cdn.yeahgames.net/img/members/profile/default/@yeahgames.png
       bio:            "Official yEAh Games News publications." #yEAH GAMES MUST ALWAYS BE A CREDITED AUTHOR ON ALL POSTS! THE AUTHOR CAN ADD THEIR CREDIT AS WELL IN CERTAIN CASES, BUT YEAHGAMES MUST ALWAYS BE THERE
@@ -28,7 +29,8 @@ authors:
       twitter:        https://github.com/yeah-games
 
     tallinn:
-      name:           Tallinn (@nnillat)
+      name:           Tallinn
+      username:       nnillat
       site:           https://t.unigon.net
       avatar:         //cdn.yeahgames.net/img/members/profile/default/@nnillat.png
       bio:            "Lead developer, writer and administrator for yEAh Games."
@@ -36,7 +38,8 @@ authors:
       twitter:        https://github.com/nnillat      
 
     aidan:
-      name:           Aidan (@undone)
+      name:           Aidan
+      username:       undone
       site:           https://members.yeahgames.net/@undone
       avatar:         //cdn.yeahgames.net/img/members/profile/default/@undone.png
       bio:            "Secondary developer, writer, administrator for yEAh Games."
