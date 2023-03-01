@@ -20,25 +20,25 @@ plugins:
   
 authors:
     yeahgames:
-      name:           yEAh Games
+      name:           yEAh Games (@yeahgames)
       site:           https://www.yeahgames.net
-      avatar:         //news.yeahgames.net/assets/images/logo.png
+      avatar:         //cdn.yeahgames.net/img/members/profile/default/@yeahgames.png
       bio:            "Official yEAh Games News publications." #yEAH GAMES MUST ALWAYS BE A CREDITED AUTHOR ON ALL POSTS! THE AUTHOR CAN ADD THEIR CREDIT AS WELL IN CERTAIN CASES, BUT YEAHGAMES MUST ALWAYS BE THERE
       email:          admin@yeahgames.net
       twitter:        https://github.com/yeah-games
 
     tallinn:
-      name:           Tallinn
+      name:           Tallinn (@nnillat)
       site:           https://t.unigon.net
-      avatar:         //news.yeahgames.net/assets/images/authors/tallinn.png
+      avatar:         //cdn.yeahgames.net/img/members/profile/default/@nnillat.png
       bio:            "Lead developer, writer and administrator for yEAh Games."
       email:          tallinn@yeahgames.net
       twitter:        https://github.com/nnillat      
 
     aidan:
-      name:           Aidan
+      name:           Aidan (@undone)
       site:           https://members.yeahgames.net/@undone
-      avatar:         https://i.ibb.co/v3pwbfx/UNDONE.png
+      avatar:         //cdn.yeahgames.net/img/members/pfp/default/@undone.png
       bio:            "Secondary developer, writer, administrator for yEAh Games."
       email:          aidan@yeahgames.net
       twitter:        https://github.com/undonesundew   
