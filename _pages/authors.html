@@ -15,6 +15,7 @@ permalink: "/authors-list.html"
             <div class="col-md-9">
             <a href="{{site.baseurl}}/authors/{{ author[1].name | slugify }}">
             <h4 class="text-dark mb-0"> {{ author[1].name }} </h4>
+            <p class="d-inline-block mt-1 mb-3 font-weight-normal">@{{author[1].username}}</p><br>
             <small class="d-inline-block mt-1 mb-3 font-weight-normal">(View Posts)</small>
             <div class="excerpt">{{ author[1].bio }}</div>
             </a>
