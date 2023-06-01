@@ -13,10 +13,10 @@ permalink: "/authors.html"
             <div class="row">
             <div class="col-md-3 mb-4 mb-md-0"><img alt="{{ author[1].name }}" src="{{site.baseurl}}/{{ author[1].avatar }}" class="rounded-circle" height="80" width="80"></div>
             <div class="col-md-9">
-            <a href="{{site.baseurl}}/authors/{{ author[1].name | slugify }}">
+            <a href="{{site.baseurl}}/authors/{{ author[1].name | slugify | remove: '-' | remove: ' '}}">
             <h4 class="text-dark mb-0"> {{ author[1].name }} </h4></a>
             <a href="//members.yeahgames.net/@{{author[1].username}}"><p class="d-inline-block mt-1 mb-3 font-weight-normal">@{{author[1].username}}</p></a><br>
-            <a href="{{site.baseurl}}/authors/{{ author[1].name | slugify }}"> <div class="excerpt">{{ author[1].bio }}</div>
+            <a href="{{site.baseurl}}/authors/{{ author[1].name | slugify | remove: '-' | remove: ' '}}"> <div class="excerpt">{{ author[1].bio }}</div>
             </a>
             <div class="icon-block mt-3 d-flex justify-content-between">  
             <div>
