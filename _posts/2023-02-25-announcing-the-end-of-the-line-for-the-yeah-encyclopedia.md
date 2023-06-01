@@ -3,8 +3,8 @@ layout: post
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
 author: tallinn
 categories: [News/announcements, Official, Products]
-image: /news.yeahgames.net/archive/img/encyclopedias.jpg
-tags: [sticky]
+image: archive/img/encyclopedias.jpg
+tags: [retirement]
 ---
 
 After a long tenure, we've announced we will be retiring the yEAh Games Encyclopedia as part of the Archives. This comes after a lengthy discussion, but ultimately, we've decided that it's best for the company.
