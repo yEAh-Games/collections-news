@@ -3,8 +3,8 @@ layout: post
 title:  "Introducing yeahgames.net!"
 author: tallinn
 categories: [Announcements, Official, Release, Network]
-image: archive/img/yeahgamesnet.png
-tags: [network]
+image: archive/img/network.jpg
+tags: [network, release]
 ---
 
 In the modern world, online gaming has become one of the most popular forms of entertainment for people of all ages. With the rapid growth of technology, people can now access a variety of games online, anytime and anywhere. The website "yeahgames.net" is one such platform that offers an extensive library of games, quotes, documents, and Yible chapters. Moreover, it has a built-in chat to bypass school restrictions, and offers a plethora of Yeah Very Fungible Tokens (YVFTs) to enhance the user experience.
