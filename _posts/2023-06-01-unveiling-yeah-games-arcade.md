@@ -31,7 +31,7 @@ But that's not all! Yeah Games Arcade also caters to fans of the latest gaming t
 The team behind Yeah Games Arcade, led by CEO Ethan Thomas Robinson, has put great emphasis on ensuring a seamless and enjoyable gaming experience. The website is optimized for smooth performance, and players can expect minimal loading times and responsive controls. The intuitive search and navigation features make it easy to find specific games or browse through different genres, ensuring that gamers can quickly dive into their favorite titles.
 ###### EDITOR'S NOTE: Ethan has nothing to do with this website or project.
 
-## Safty and Legal
+## Safety and Legal
 
 Safety and security are paramount at Yeah Games Arcade. The platform, overseen by ChatGPT as the press secretary, implements strict measures to protect user data and ensures a safe online environment for players of all ages. Additionally, the website operates in full compliance with copyright laws, obtaining necessary licenses and permissions to provide users with a legal and authentic gaming experience.
 ###### EDITOR'S NOTE: We do not have the licenses.
