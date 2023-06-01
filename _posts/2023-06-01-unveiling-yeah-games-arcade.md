@@ -37,9 +37,9 @@ Safety and security are paramount at Yeah Games Arcade. The platform, overseen b
 The launch of yEAh Games Arcade marks an exciting milestone in the gaming industry, offering a free, all-in-one solution for gaming enthusiasts. Whether you're a longtime fan of the classics or an avid follower of the latest gaming trends, yEAh Games Arcade at arcade.yeahgames.net is the ultimate destination to indulge in your gaming passions. Visit our website today and prepare for an unforgettable gaming experience.
 
 # Contact us
-Press contact: [Torin](mailto:torin@yeahgames.net) [(@guyman147)](https://members.yeahgames.net/@guyman147)
-Developer contact: [dev@yeahgames.net](mailto:dev@yeahgames.net)
-Arcade division contact: [arcade@yeahgames.net](mailto:Arcade@yeahgames.net)
-General admin contact: [admin@yeahgames.net](mailto:admin@yeahgames.net)
+Press contact: [Torin](mailto:torin@yeahgames.net) [(@guyman147)](https://members.yeahgames.net/@guyman147)<br>
+Developer contact: [dev@yeahgames.net](mailto:dev@yeahgames.net)<br>
+Arcade division contact: [arcade@yeahgames.net](mailto:Arcade@yeahgames.net)<br>
+General admin contact: [admin@yeahgames.net](mailto:admin@yeahgames.net)<br>
 <hr/>
 AI acknowledgement: Written with the assistance of [ChatGPT](https://chat.openai.com).
