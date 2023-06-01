@@ -13,7 +13,7 @@ As part of our commitment to enhancing user experience and streamlining access t
 
 # A JavaScript-Based Login System: Roadmap
 
-## 1\. Planning and Preparation** (1-2 weeks)
+## 1\. Planning and Preparation (1-2 weeks)
 
 During this phase, we will meticulously plan and prepare for the implementation of yAuth. We will define technical specifications, outlining the integration of the GitHub/yEAh API as a secure database for storing user information. Detailed consideration will be given to the utilization of JavaScript to query the API and handle authentication processes.
 
@@ -27,7 +27,7 @@ The frontend development phase will focus on creating an intuitive and user-frie
 
 ## 4\. Network Settings and Dynamic Content (3-4 weeks)
 
-In this phase, we will extend the functionality of yAuth to leverage the stored cookie across the yEAh Network. JavaScript functions on other network websites will be developed to query the authentication cookie. This will allow us to display personalized content based on the user's authentication status and permissions. For example, if a user is logged in and has specific permissions, we can display restricted content, such as an iframe of exclusive games. If a user is not logged in or lacks the necessary permissions, they will be automatically redirected to accounts.yeahgames.net to log in and obtain the authentication cookie.
+In this phase, we will extend the functionality of yAuth to leverage the stored cookie across the yEAh Network. JavaScript functions on other network websites will be developed to query the authentication cookie. This will allow us to display personalized content based on the user's authentication status and permissions. For example, if a user is logged in and has specific permissions, we can display restricted content, such as an iFrame of exclusive games. If a user is not logged in or lacks the necessary permissions, they will be automatically redirected to accounts.yeahgames.net to log in and obtain the authentication cookie.
 
 ## 5\. Stay Logged In Functionality (1-2 weeks)
 
@@ -41,7 +41,7 @@ We will implement a database management system using the GitHub/yEAh API. User d
 
 In tandem with the implementation of yAuth, we will retire our existing login/token method, notably used with the quotes library collection Previously, to access any page within this collection, users were redirected to login.yeahgames.net/token/TOKEN and required to enter and decrypt a standard password. This method lacked security and only redirected users to a different subdomain with the content, without dynamically loading it. yAuth will replace this outdated method, providing a more secure and seamless login experience.
 
-Throughout the implementation process, our progress can be tracked on https://projects.yeahgames.net, specifically in the "yAuth" project. Developers can find detailed information, including open-source contributions, on https://dev.yeahgames.net/projects/open/yauth. Additionally, comprehensive documentation is available at https://docs.yeahgames.net, providing guidance on yAuth implementation, usage, and customization.
+Throughout the implementation process, our progress can be tracked on [projects.yeahgames.net](https://projects.yeahgames.net), specifically in the "yAuth" project. Developers can find detailed information, including open-source contributions, on [dev.yeahgames.net/projects/open/yauth](dev.yeahgames.net/projects/open/yauth). Additionally, comprehensive documentation is available at [docs.yeahgames.net](https://docs.yeahgames.net), providing guidance on yAuth implementation, usage, and customization.
 
 ## 8. Full project open-sourcing (6+ weeks)
 
