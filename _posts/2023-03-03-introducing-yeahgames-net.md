@@ -3,7 +3,7 @@ layout: post
 title:  "Introducing yeahgames.net!"
 author: tallinn
 categories: [Announcements, Official, Release, Network]
-image: archive/img/network.jpg
+image: archive/img/network.png
 tags: [network, release]
 ---
 
