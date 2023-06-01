@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Introducing yeahgames.net!"
-author: aidan
-categories: [News/announcements, Official, Network]
+author: tallinn
+categories: [Announcements, Official, Release, Network]
 image: archive/img/yeahgamesnet.png
 tags: [network]
 ---
