@@ -1,0 +1,23 @@
+---
+layout: compress
+swcache: true
+---
+
+[
+  {% for post in site.posts %}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "author": {{ post.author | jsonify }},
+    "link": {{ post.link | jsonify }},
+    "categories": {{ post.categories | join: ', ' | jsonify }},
+    "tags": {{ post.tags | join: ', ' | jsonify }},
+    "date": "{{ post.date }}",\
+    "image": https://news.yeahgames.net/{{ post.image | jsonify }},
+    {% include no-linenos.html content=post.content %}
+    {% assign _content = content | strip_html | strip_newlines %}
+    "snippet": {{ _content | truncate: 200 | jsonify }},
+    "content": {{ _content | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
