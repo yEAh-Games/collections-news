@@ -7,6 +7,7 @@ image: archive/img/gaming1.jpg
 tags: [network, games]
 link: https://news.yeahgames.net/news/unveiling-yeah-games-arcade
 canonical_url: https://news.yeahgames.net/news/unveiling-yeah-games-arcade
+c: News
 ---
 
 yEAh and its leading online gaming platform, yEAh Games, is thrilled to announce the launch of their new professional website, the yEAh Games Arcade. This exciting development brings gaming enthusiasts a one-stop destination to play a vast collection of classic and modern titles, including N64, SNES, GBA, PS5, and Nintendo Switch games, all free of charge and playable on any device, in your browser!

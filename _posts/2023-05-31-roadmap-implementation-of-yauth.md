@@ -7,6 +7,7 @@ image: archive/img/yauth.jpg
 tags: [sticky, network, dev]
 link: https://news.yeahgames.net/news/roadmap-implementation-of-yauth
 canonical_url: https://news.yeahgames.net/news/roadmap-implementation-of-yauth
+c: News
 ---
 
 As part of our commitment to enhancing user experience and streamlining access to the yEAh Network, we are excited to introduce yAuth, a revolutionary JavaScript-based login system. By leveraging the power of JavaScript and the capabilities of the GitHub & yEAh API, yAuth will provide seamless login functionality, centralized account management, personalized control over user settings, and the ability to stay logged in across our network.
