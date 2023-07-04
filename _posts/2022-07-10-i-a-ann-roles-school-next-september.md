@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ROLES -- School next September
+title:  School next September
 date: 2022-07-10 21:09
 author: yeahgames
 comments: true
