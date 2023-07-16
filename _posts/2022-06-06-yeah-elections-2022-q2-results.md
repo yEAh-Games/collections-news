@@ -4,7 +4,7 @@ title: Results for the May 2022 YG elections
 date: 2022-06-06 09:52
 author: yeahgames, Aidan
 comments: true
-categories: [Events, May 2022 Elections, yEAh Elections]
+categories: [News, Announcement, Events, May 2022 Elections, yEAh Elections]
 image: https://yeaharchives.files.wordpress.com/2022/06/electionresults-thumb.png
 ---
 <!-- wp:heading -->

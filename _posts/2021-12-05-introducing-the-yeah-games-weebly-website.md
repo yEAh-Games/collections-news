@@ -5,7 +5,7 @@ date: 2021-12-05 12:40
 author: yeahgames
 comments: true
 tags: [Website, old]
-categories: [Announcement, News/announcements, Official]
+categories: [News, Announcement, Official]
 image: https://yeaharchives.files.wordpress.com/2022/07/untitled-presentation-2.png
 ---
 <!-- wp:paragraph -->

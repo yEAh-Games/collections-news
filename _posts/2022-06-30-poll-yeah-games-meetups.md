@@ -4,7 +4,7 @@ title: "Poll: yEAh Games Meetups"
 date: 2022-06-30 11:06
 author: yeahgames
 comments: true
-categories: [Announcement, News/announcements, Official, Polls]
+categories: [News, Announcement, Official, Polls]
 tags: [meetups, upcoming events, events, yeah-games]
 image: https://yeaharchives.files.wordpress.com/2022/07/untitled-presentation.png
 ---

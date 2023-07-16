@@ -5,7 +5,7 @@ date: 2022-05-30 18:57
 author: yeahgames
 comments: true
 tags: [candidates, vote, voting, yeah games elections, yeah games elections 2022]
-categories: [Elections, Events, May 2022 Elections, yEAh Elections]
+categories: [News, Article, Elections, Events, May 2022 Elections, yEAh Elections]
 image: https://yeaharchives.files.wordpress.com/2022/05/screenshot-2022-05-30-18.54.18.png
 ---
 <!-- wp:paragraph -->
