@@ -2,7 +2,7 @@
 layout: post
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
 author: tallinn
-categories: [Announcements, Official, Retirement, Products]
+categories: [News, Article, Official, Retirement, Products]
 image: archive/img/encyclopedias.jpg
 tags: [retirement, products, network]
 ---

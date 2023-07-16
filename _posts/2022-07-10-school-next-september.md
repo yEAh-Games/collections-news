@@ -4,8 +4,8 @@ title: School next September
 date: 2022-07-10 21:09
 author: yeahgames
 comments: true
-categories: [Announcement, Interactive announcements, News/announcements, Official]
-tags: [ia, official, discord]
+categories: [News, Announcement, Official]
+tags: [school, official, discord]
 image: https://yeaharchives.files.wordpress.com/2022/07/roles-school_coverthumbpspro.png
 ---
 <!-- wp:paragraph -->
