@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Election candidates in the May 2022 YG elections
+title: Election candidates in the May 2022 yEAh elections
 date: 2022-05-30 18:57
 author: yeahgames
 comments: true
