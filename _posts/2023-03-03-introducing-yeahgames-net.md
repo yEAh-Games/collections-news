@@ -1,9 +1,10 @@
 ---
 layout: post
+date: 2022-03-03 12:30
 title:  "Introducing yeahgames.net!"
 author: tallinn
-categories: [News, Article, Official, Release, Network]
-image: archive/img/network.png
+categories: [News, Article, Release, Network, Web]
+image: https://news.yeahgames.net/archive/img/network.png
 tags: [network, release]
 ---
 

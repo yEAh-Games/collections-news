@@ -1,9 +1,10 @@
 ---
 layout: post
+date: 2023-02-25 12:30
 title:  "Announcing the end of the line for the yEAh Encyclopedia"
 author: tallinn
-categories: [News, Article, Official, Retirement, Products]
-image: archive/img/encyclopedias.jpg
+categories: [News, Article, Products]
+image: https://news.yeahgames.net/archive/img/encyclopedias.jpg
 tags: [retirement, products, network]
 ---
 

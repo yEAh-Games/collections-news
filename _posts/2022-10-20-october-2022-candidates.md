@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Election candidates in the October 2022 YG elections
+title: Election candidates in the October 2022 yEAh elections
 date: 2022-10-20 18:00
 author: yeahgames
 comments: true
