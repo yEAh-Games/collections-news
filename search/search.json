@@ -13,7 +13,7 @@ swcache: true
     "categories": {{ post.categories | join: ', ' | jsonify }},
     "tags": {{ post.tags | join: ', ' | jsonify }},
     "date": "{{ post.date }}",
-    "image": "https://news.yeahgames.net/{{post.image}}",
+    "image": "https://news.ynwk.org/{{post.image}}",
     {% include no-linenos.html content=post.content %}
     {% assign _content = content | strip_html | strip_newlines %}
     "snippet": {{ _content | truncate: 200 | jsonify }},
