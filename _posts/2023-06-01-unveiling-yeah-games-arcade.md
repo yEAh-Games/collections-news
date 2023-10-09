@@ -3,10 +3,10 @@ layout: post
 title: "Unveilling the yEAh Games Arcade!"
 author: aidan
 categories: [News, Article, Release, Products, Games]
-image: https://news.yeahgames.net/archive/img/gaming1.jpg
+image: https://news.ynwk.org/archive/img/gaming1.jpg
 tags: [network, games, arcade, release, products]
-link: https://news.yeahgames.net/news/unveiling-yeah-games-arcade
-canonical_url: https://news.yeahgames.net/news/unveiling-yeah-games-arcade
+link: https://news.ynwk.org/news/unveiling-yeah-games-arcade
+canonical_url: https://news.ynwk.org/news/unveiling-yeah-games-arcade
 c: News
 ---
 

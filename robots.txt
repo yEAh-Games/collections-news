@@ -1,4 +1,4 @@
-Sitemap: https://news.yeahgames.net/sitemap.xml
+Sitemap: https://news.ynwk.org/sitemap.xml
 
 User-agent: *
 Disallow: /search/*

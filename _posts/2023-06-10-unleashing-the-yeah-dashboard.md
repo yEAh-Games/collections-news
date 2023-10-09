@@ -4,10 +4,10 @@ title: "Revolutionizing the Network: Unleashing the yEAh Dashboard"
 author: tallinn
 date: 10-06-2023
 categories: [News, Article, Development, Release, Network]
-image: https://news.yeahgames.net/archive/img/dashboard.png
+image: https://news.ynwk.org/archive/img/dashboard.png
 tags: [network, dashboard, release]
-link: https://news.yeahgames.net/news/unleashing-the-yeah-dashboard
-canonical_url: https://news.yeahgames.net/news/unleashing-the-yeah-dashboard
+link: https://news.ynwk.org/news/unleashing-the-yeah-dashboard
+canonical_url: https://news.ynwk.org/news/unleashing-the-yeah-dashboard
 ---
 
 We are thrilled to announce the launch of the **yEAh Dashboard**, a revolutionary new tool that will significantly enhance app development on the yEAh Games network. The yEAh Dashboard aims to streamline the development process by providing built-in access to **[yAuth](https://docs.yeahgames.net/docs/yauth)** and authentication, our robust login system, making it perfect for building dynamic yEAh apps. With its centralized and standardized UI and interface, the dashboard seamlessly integrates with other apps on the network, simplifying development while offering a plethora of new features.
